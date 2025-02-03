@@ -1,1 +1,1 @@
-Analysis and Experimatation with the Annealed Langevin Sampling algorithm by Song, Ermon, 2020.
+Analysis and Experimentation with the Annealed Langevin Sampling algorithm by Song, Ermon, 2020.
